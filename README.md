@@ -23,7 +23,9 @@ The [app_transcribe.py](https://github.com/anwesha-umn/TranscribeAI_subtitle_gen
 Use the following command to run the app: 
 `streamlit run app_transcribe.py`.
 
-Here is a snapshot of the interface:
+Here is a snapshot of the interface, downloading audio and
+video from a YouTube link given as input and generating
+Improved SRT file for Subtitles:
 
 ![Display of GUI, downloading audio and
 video from a YouTube link given as input and generating
