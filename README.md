@@ -27,4 +27,4 @@ Here is a snapshot of the interface:
 
 ![Display of GUI, downloading audio and
 video from a YouTube link given as input and generating
-Improved SRT file for Subtitles]([URL or relative path to image](https://github.com/anwesha-umn/TranscribeAI_subtitle_generation/blob/main/images/gui1.png))
+Improved SRT file for Subtitles](https://github.com/anwesha-umn/TranscribeAI_subtitle_generation/blob/main/images/gui1.png)
