@@ -14,3 +14,8 @@ quality across content types.
 
 4. Aligning subtitles appropriately to speech without altering
 original video timestamps.
+
+
+# Streamlit GUI
+
+The app_transcribe.py file includes code for implemeting the GUI. Here is a snapshot of the interface:
