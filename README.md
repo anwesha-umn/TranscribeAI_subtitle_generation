@@ -30,3 +30,17 @@ Improved SRT file for Subtitles:
 ![Display of GUI, downloading audio and
 video from a YouTube link given as input and generating
 Improved SRT file for Subtitles](https://github.com/anwesha-umn/TranscribeAI_subtitle_generation/blob/main/images/gui1.png)
+
+Custom segmentation helps to refine the captions,
+ensuring accurate and well-structured subtitles.
+The refined SRT files are embedded into the
+video using FFmpeg, creating a captioned video
+output. With options to preview the video and
+download the SRT file, the pipeline offers a complete
+solution for showcasing the workflow and
+results in an interactive demo.
+
+
+The final output video with added Subtitles:
+![gui2](https://github.com/anwesha-umn/TranscribeAI_subtitle_generation/blob/main/images/gui2.png)
+
